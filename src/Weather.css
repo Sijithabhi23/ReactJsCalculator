@@ -1,0 +1,23 @@
+/*.card-container{
+    margin: 120px 50px 50px 480px;
+    height: 500px;
+    border: 3.5px solid black;
+    width: 400px;
+    border-radius: 40px;
+}*/
+
+body{
+    background-image: url("https://i.pinimg.com/736x/d3/e1/3a/d3e13a0d1472332265d3a948549d975c.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size: large;
+}
+.Weather-report{
+    padding: 210px 0px 50px 180px;
+}
+marquee{
+    padding-left: 567px;
+    padding-top: 138px;
+}
